@@ -1,0 +1,7 @@
+2026-08-19 13:05:23.002 -06:00 [DBG] Parsing command
+2026-08-19 13:05:24.380 -06:00 [DBG] Parsing finished successfully. Elapsed 1 seconds.
+2026-08-19 13:05:24.383 -06:00 [DBG] Checking if CLI upgrade required
+2026-08-19 13:05:28.213 -06:00 [DBG] CLI is up-to-date. Elapsed 3 seconds.
+2026-08-19 13:05:30.279 -06:00 [INF] 2026-08-19 19:05:30,267 INFO Start:  install -n PowerSplitter --force
+2026-08-19 13:05:30.288 -06:00 [INF] 2026-08-19 19:05:30,288 ERROR In order to run this restart again in administrator mode
+2026-08-19 13:05:30.288 -06:00 [INF] 	

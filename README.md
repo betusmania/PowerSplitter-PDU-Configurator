@@ -1,6 +1,6 @@
 # PowerSplitter PDU Configurator
 
-A small Python/tkinter GUI that configures the **PowerSplitter** app to connect to a PDU over SSH without requiring the Connection Manager (CM) service, which is EOL.
+A small Python/tkinter GUI that configures the **PowerSplitter** app to connect to a PDU over SSH without requiring the Configuration Manager (CM) service, which is EOL.
 
 ## Background
 
@@ -39,7 +39,7 @@ python main.py
 2. **PDU Mapping** — your hostname is auto-filled; enter the PDU IP and outlet number(s)
 3. **SSH Credentials** — enter the PDU SSH username and password
 4. Click **Save & Apply** — writes the CSV and sets the three env vars permanently in your user registry
-5. Restart `PowerSplitter.exe` — it now uses the CSV and bypasses Neptune entirely
+5. Restart `PowerSplitter.exe` — it now uses the CSV and bypasses CM (Configuration Manager) entirely
 
 ## Install PowerSplitter
 
